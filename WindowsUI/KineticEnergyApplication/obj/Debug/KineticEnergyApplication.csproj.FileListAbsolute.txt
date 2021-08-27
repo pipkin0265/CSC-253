@@ -1,0 +1,10 @@
+C:\Users\King Mikeyyy\source\repos\WindowsUI\KineticEnergyApplication\bin\Debug\KineticEnergyApplication.exe.config
+C:\Users\King Mikeyyy\source\repos\WindowsUI\KineticEnergyApplication\bin\Debug\KineticEnergyApplication.exe
+C:\Users\King Mikeyyy\source\repos\WindowsUI\KineticEnergyApplication\bin\Debug\KineticEnergyApplication.pdb
+C:\Users\King Mikeyyy\source\repos\WindowsUI\KineticEnergyApplication\obj\Debug\KineticEnergyApplication.csproj.AssemblyReference.cache
+C:\Users\King Mikeyyy\source\repos\WindowsUI\KineticEnergyApplication\obj\Debug\KineticEnergyApplication.Form1.resources
+C:\Users\King Mikeyyy\source\repos\WindowsUI\KineticEnergyApplication\obj\Debug\KineticEnergyApplication.Properties.Resources.resources
+C:\Users\King Mikeyyy\source\repos\WindowsUI\KineticEnergyApplication\obj\Debug\KineticEnergyApplication.csproj.GenerateResource.cache
+C:\Users\King Mikeyyy\source\repos\WindowsUI\KineticEnergyApplication\obj\Debug\KineticEnergyApplication.csproj.CoreCompileInputs.cache
+C:\Users\King Mikeyyy\source\repos\WindowsUI\KineticEnergyApplication\obj\Debug\KineticEnergyApplication.exe
+C:\Users\King Mikeyyy\source\repos\WindowsUI\KineticEnergyApplication\obj\Debug\KineticEnergyApplication.pdb
